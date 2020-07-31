@@ -1,0 +1,20 @@
+.placement_bold
+{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.placement
+{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.placement_header
+{
+    margin: 20px;
+}
+.last_para
+{
+    margin-bottom: 20px;
+    
+}

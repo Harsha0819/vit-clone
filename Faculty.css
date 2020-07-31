@@ -1,0 +1,24 @@
+.header
+{
+    padding: 20px;
+}
+.faculty
+{
+    margin-left: 20px;
+}
+.faculty{
+    font-size: 30px;
+}
+.members
+{
+    font-size: 20px;
+    margin: 10px;
+}
+.mem_faculty
+{
+    display: flex;
+}
+.info
+{
+    font-size: 15px;
+}

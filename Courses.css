@@ -1,0 +1,13 @@
+.courses
+{
+    flex-direction: column;
+
+}
+.pic
+{
+    flex: 1;
+}
+.mar
+{
+    margin-left: 20px;
+}

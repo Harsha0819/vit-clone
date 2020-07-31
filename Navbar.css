@@ -1,0 +1,35 @@
+.navbar
+{
+    display: flex;
+    object-fit: contain;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(43, 40, 40);
+    
+   
+}
+.navbar_header
+{
+    color: white;
+    font-size: medium;
+    font-weight: 200;
+}
+.navbar_option
+{
+    display: flex;
+   
+}
+.navbarOption_items
+{
+    margin: 8px;
+    font-size: medium;
+    color: white;
+    font-size: 20px;
+    
+}
+.navbarOption_items:hover
+{
+    font-weight:500;
+    color: rgb(41, 41, 139);
+}

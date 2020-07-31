@@ -1,0 +1,26 @@
+.coe
+{
+    margin-left: 20px;
+    font-size: 20px;
+    object-fit: contain;
+}
+.input
+{
+    size: 50px;
+}
+
+.coe_input
+{
+    background-color: lightgrey;
+    object-fit: contain;
+
+}
+.header
+{
+    margin: 20px;
+    font-size: 30px;
+}
+.components
+{
+    margin: 20px;
+}
